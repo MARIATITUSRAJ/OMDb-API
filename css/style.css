@@ -1,0 +1,25 @@
+.navbar-brand {
+    font-weight: bold;
+}
+
+#searchForm {
+    margin-bottom: 20px;
+}
+
+.card {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.card-img {
+    max-width: 100%;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.card-text {
+    color: #6c757d;
+}
